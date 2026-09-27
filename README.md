@@ -2,6 +2,8 @@
 
 A collection of [Claude Agent Skills](https://code.claude.com/docs/en/skills) for UX/product work — audits, reviews, and automation that plug into Claude Code, Claude Desktop/Web, or any Agent-Skills-compatible client.
 
+Maintained by [@hanie-fre](https://github.com/hanie-fre).
+
 ## Skills in this repo
 
 | Skill | Description |
